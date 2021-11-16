@@ -1,28 +1,4 @@
-== README
+### React on Rails: Building a Simple App
+To decide on a front-end for your Rails app, you need a feel for the options. Does a certain JS framework speak to you or does it make you feel dirty inside? There's only one way to find out! In this article, Julio Sampaio walks us through creating an React app from scratch and integrating it with a Rails back-end via webpacker.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+https://www.honeybadger.io/blog/react-rails/
